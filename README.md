@@ -77,6 +77,6 @@
 
 ###
 
-<h3 align="center"><\hr></h3>
+</hr>
 
 ###
