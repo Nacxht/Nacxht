@@ -40,3 +40,11 @@
 </div>
 
 ###
+
+<h4 align="left">Note:</h4>
+
+###
+
+<p align="left">"I'm currently taking a break from working on projects to focus on strengthening my programming fundamentals and logic. I've been having some problems while working on projects, especially when I look at my colleagues' code and I don't understand how it works. I believe that by taking the time to improve my foundation, I'll be able to become a more effective and efficient programmer."</p>
+
+###
