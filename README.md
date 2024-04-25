@@ -30,10 +30,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="6" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="35" alt="laravel logo"  />
@@ -42,9 +38,5 @@
 ###
 
 <h4 align="left">Note:</h4>
-
-###
-
-<p align="left">"I'm currently taking a break from working on projects to focus on strengthening my programming fundamentals and logic. I've been having some problems while working on projects, especially when I look at my colleagues' code and I don't understand how it works. I believe that by taking the time to improve my foundation, I'll be able to become a more effective and efficient programmer."</p>
 
 ###
