@@ -36,7 +36,3 @@
 </div>
 
 ###
-
-<h4 align="left">Note:</h4>
-
-###
