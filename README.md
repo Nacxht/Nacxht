@@ -30,9 +30,23 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="35" alt="laravel logo"  />
+</div>
+
+###
+
+<h4 align="left">Databases:</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
